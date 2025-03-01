@@ -35,7 +35,6 @@ This project implements a real-time face verification system using **DeepFace** 
    ```bash
    python face_verification.py
    ```
-5. w
 
 ## Future Improvements
 
